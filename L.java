@@ -18,6 +18,7 @@ public class L {
 
         Object obj2;
 
+        
 
         if (dato1.equalsIgnoreCase("true")
 
