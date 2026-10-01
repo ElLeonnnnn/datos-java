@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Ejem6<T, U> {
+public class Practica1<T, U> {
     T valor1;
     U valor2;
 
-    public Ejem6(T valor1, U valor2) {
+    public Practica1(T valor1, U valor2) {
         this.valor1 = valor1;
         this.valor2 = valor2;
     }
